@@ -1,9 +1,7 @@
-import React from 'react'
 import Nav from './Nav'
 
-type Props = {}
 
-const Header = (props: Props) => {
+const Header = () => {
   return (
     <div className='flex items-center justify-between  font-sans'>
         <div className="">
