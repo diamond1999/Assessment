@@ -1,12 +1,12 @@
-import React from 'react'
+
 import Header from '../component/Header'
 import Cards from '../component/Cards'
 import Card2 from '../component/Card2'
 import Footer from '../component/Footer'
 
-type Props = {}
 
-const Test = (props: Props) => {
+
+const Test = () => {
   return (
     <div className='m-4'>
         <div className="">

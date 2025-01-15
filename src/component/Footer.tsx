@@ -1,8 +1,5 @@
-import React from 'react'
 
-type Props = {}
-
-const Footer = (props: Props) => {
+const Footer = () => {
   return (
     <footer className="mt-20 py-8">
       <div className="grid grid-cols-2 gap-4 text-gray-600">
